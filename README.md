@@ -1,2 +1,15 @@
 # academic-information
-ETL that models academic information of students
+
+UNAH (Autonomous University of Honduras). **Artificial Intelligence** class homework.
+
+## Teacher 👨‍💻
+
+- **Uayeb Caballero Rodriguez** - [uayeb25](https://github.com/uayeb25)
+
+## Authors ✒️
+
+- **Gabriel Alexander Barrientos Hernández** - _20181000058_ - [galexbh](https://github.com/galexbh)
+
+## Necessary 📄
+
+- [Google Colab](https://colab.research.google.com/?hl=es)
